@@ -105,9 +105,3 @@ modal_sub.addEventListener("click", ()=>{
 })
 
 
-let demo = new CountUp('#dk1', 7945);
-if (!demo.error) {
-  demo.start();
-} else {
-  console.error(demo.error);
-}
