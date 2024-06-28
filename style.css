@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Roboto";
-  src: url("../RobotoSlab-VariableFont_wght.ttf");
+  src: url("RobotoSlab-VariableFont_wght.ttf");
 }
 @font-face {
   font-family: "Rubik";
-  src: url("../RubikMonoOne-Regular.ttf");
+  src: url("RubikMonoOne-Regular.ttf");
 }
 @font-face {
   font-family: "Spectral";
-  src: url("../Spectral-Regular.ttf");
+  src: url("Spectral-Regular.ttf");
 }
 @font-face {
   font-family: "Montserrat";
-  src: url("../Montserrat-VariableFont_wght.ttf");
+  src: url("Montserrat-VariableFont_wght.ttf");
 }
 html {
   scroll-behavior: smooth;
